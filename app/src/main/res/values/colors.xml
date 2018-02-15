@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="pink">#d500ff</color>
+    <color name="hellgelb">#cfcfc5</color>
+    <color name="gelb">#c7cc00</color>
+    <color name="dunkelgrau">#212121</color>
+    <color name="grau">#69484848</color>
+    <color name="blackhell">#000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>
